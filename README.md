@@ -2,6 +2,10 @@
 
 Dignity Gold (DIGau)
 
+Public Whitepaper
+Version 1.0
+Last updated: January 2026
+
 Dignity Gold is a real-world asset focused digital asset project centered on precious metals, beginning with gold. The project is structured to emphasize disciplined token issuance, long-term stewardship, and regulatory awareness.
 
 This repository contains public reference documentation intended to provide clarity on the project’s structure, tokenomics framework, and general offering context. The materials are provided for informational purposes only and are not intended as an offer, solicitation, or recommendation of any kind.
