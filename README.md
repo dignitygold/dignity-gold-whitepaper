@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="Dignity Gold" width="180">
+<img src="assets/dignity-gold-logo.png" alt="Dignity Gold" width="180">
 
 Dignity Gold (DIGau)
 
